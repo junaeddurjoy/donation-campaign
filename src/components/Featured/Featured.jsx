@@ -11,7 +11,6 @@ const Featured = () => {
     },[])
     return (
         <div className="py-20 px-5">
-            <h1>all the donation items</h1>
             <div className="gap-10 grid grid-cols-4">
                 {
                     feature.map(feature => <Features key={feature.id} feature={feature}></Features>)
