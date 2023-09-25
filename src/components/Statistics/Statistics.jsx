@@ -19,11 +19,9 @@ const Statistics = () => {
     for(let i=0;i<appliedDonations.length;i++){
         totalMoney = totalMoney + appliedDonations[i].money
     }
-    // console.log(totalMoney)
     return (
         <div>
-            {/* <Charts totalMoney={totalMoney}></Charts> */}
-            <Charts></Charts>
+            <Charts totalMoney={totalMoney}></Charts>
         </div>
     );
 };

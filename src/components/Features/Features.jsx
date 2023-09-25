@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import Donation from "../Donation/Donation";
 
 const Features = ({ feature }) => {
     const {id, image, category, title } = feature;
