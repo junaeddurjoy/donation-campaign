@@ -28,7 +28,7 @@ const Donation = () => {
                                         <div className="card-body">
                                             <h2 className="card-title text-sm text-blue-800 w-min p-1 rounded-lg bg-blue-300">{donate.category}</h2>
                                             <p className="text-xl font-bold">{donate.title}</p>
-                                            <p className="font-bold">${donate.money}</p>
+                                            <p className="font-bold text-blue-700">${donate.money}</p>
                                             <div className="card-actions">
                                                 <Link to={`/donationdetails/${donate.id}`}>
                                                     <button className="btn btn-primary">View Details</button>
@@ -45,7 +45,7 @@ const Donation = () => {
                                         <div className="card-body">
                                             <h2 className="card-title text-sm text-red-600 w-min p-1 rounded-lg bg-red-300">{donate.category}</h2>
                                             <p className="text-xl font-bold">{donate.title}</p>
-                                            <p className="font-bold">${donate.money}</p>
+                                            <p className="font-bold text-red-600">${donate.money}</p>
                                             <div className="card-actions">
                                                 <Link to={`/donationdetails/${donate.id}`}>
                                                     <button className="btn btn-primary bg-red-500 border-none hover:bg-red-500">View Details</button>
@@ -62,7 +62,7 @@ const Donation = () => {
                                         <div className="card-body">
                                             <h2 className="card-title text-sm text-green-800 w-min p-1 rounded-lg bg-green-300">{donate.category}</h2>
                                             <p className="text-xl font-bold">{donate.title}</p>
-                                            <p className="font-bold">${donate.money}</p>
+                                            <p className="font-bold text-green-600">${donate.money}</p>
                                             <div className="card-actions">
                                                 <Link to={`/donationdetails/${donate.id}`}>
                                                     <button className="btn btn-primary bg-green-500 border-none hover:bg-green-500">View Details</button>
@@ -79,7 +79,7 @@ const Donation = () => {
                                         <div className="card-body">
                                             <h2 className="card-title text-sm text-orange-800 w-min p-1 rounded-lg bg-orange-300">{donate.category}</h2>
                                             <p className="text-xl font-bold">{donate.title}</p>
-                                            <p className="font-bold">${donate.money}</p>
+                                            <p className="font-bold text-orange-600">${donate.money}</p>
                                             <div className="card-actions">
                                                 <Link to={`/donationdetails/${donate.id}`}>
                                                     <button className="btn btn-primary bg-orange-500 border-none hover:bg-orange-500">View Details</button>
