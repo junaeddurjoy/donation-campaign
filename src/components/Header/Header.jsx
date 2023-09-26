@@ -33,7 +33,7 @@ const Header = () => {
     </>
     return (
         <div className="p-16 lg:flex items-center justify-between">
-            <div>
+            <div className="my-10 md:my-10 lg:my-0">
                 <img src="https://i.ibb.co/234LD5v/Logo.png" alt="Logo" />
             </div>
             <div className="flex gap-16">

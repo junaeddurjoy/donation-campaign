@@ -10,8 +10,8 @@ const Featured = () => {
         .then(data => setFeature(data));
     },[])
     return (
-        <div className="py-20 px-5">
-            <div className="gap-10 grid grid-cols-4">
+        <div className="py-20 lg:px-5">
+            <div className="gap-10 grid grid-cols-1 md:grid-cols-1 lg:grid-cols-4">
                 {
                     feature.map(feature => <Features key={feature.id} feature={feature}></Features>)
                 }
