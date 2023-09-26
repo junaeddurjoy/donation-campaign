@@ -17,8 +17,8 @@ const DonationDetails = () => {
             <div className="relative">
                 <img className=" w-3/4 h-2/4 m-auto " src={feat.image} alt="" />
             </div>
-            <div className="bg-black-100">
-                <div className="absolute ml-52 -mt-16">
+            <div className="absolute bg-black">
+                <div className=" ml-52 -mt-16">
                     {
                         feat.category === "Health" &&
                         <button onClick={handleDonations} className="text-white bg-[#0052FF] p-3 rounded-lg font-bold ">Donate $290</button> 
@@ -39,7 +39,7 @@ const DonationDetails = () => {
             </div>
             <div className="w-3/4 m-auto my-10 ">
                 <h2 className="text-4xl font-bold my-5">{feat.title}</h2>
-                <h2>{feat.details}</h2>
+                <h2 className="text-justify">{feat.details}</h2>
             </div>
             <ToastContainer></ToastContainer>
         </div>

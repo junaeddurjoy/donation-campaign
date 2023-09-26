@@ -2,11 +2,9 @@ import PropTypes from 'prop-types';
 import { PieChart, Pie, Cell, ResponsiveContainer } from 'recharts';
 
 const Charts = ({ totalMoney }) => {
-    console.log(totalMoney)
     const data = [
         { name: 'Donation', value: totalMoney },
         { name: 'Total', value: 3480 },
-
     ];
 
     const COLORS = ['#00C49F', '#EF4444'];

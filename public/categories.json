@@ -3,17 +3,17 @@
       "id": 1,
       "image": "https://i.ibb.co/h1Yn2M6/Health.png",
       "category": "Health",
-      "title": "Clean water for children",
+      "title": "Clean Water For Children",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "Clean water for children is a fundamental human right and a vital necessity. Access to safe, potable water is essential for their health, growth, and development. Contaminated water sources can lead to waterborne diseases, malnutrition, and hinder educational opportunities. Ensuring clean water for children involves infrastructure development, filtration systems, and hygiene education. It helps prevent illness, saves lives, and reduces the burden on healthcare systems. Moreover, it promotes equitable access and social justice, benefiting marginalized communities the most. In providing clean water to children, we invest in a healthier, brighter future, where they can thrive, learn, and reach their full potential."
     },
     {
       "id": 2,
       "image": "https://i.ibb.co/kXwz6vs/Education.png",
       "category": "Education",
-      "title": "Good education",
+      "title": "Good Education",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "A good education is a dynamic and inclusive process that empowers individuals with knowledge, critical thinking skills, and values. It fosters curiosity, creativity, and adaptability, preparing students to thrive in a rapidly changing world. It prioritizes holistic development, encompassing academic, social, emotional, and ethical dimensions. A good education promotes lifelong learning and a sense of global citizenship. It is accessible to all, regardless of background or circumstances, and is guided by dedicated educators who inspire, mentor, and cultivate a love of learning. Ultimately, it equips individuals to make informed choices, contribute positively to society, and pursue their passions with purpose."
     },
     {
       "id": 3,
@@ -21,23 +21,23 @@
       "category": "Clothing",
       "title": "Used Clothing Drive",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "A used clothing drive is a compassionate and sustainable initiative aimed at collecting gently worn clothing items from the community. These collected garments are then redistributed to those in need, often including disadvantaged individuals and families, as well as those affected by disasters. Such drives serve several purposes: reducing textile waste, extending the life of clothing, and addressing clothing insecurity. They also foster a sense of community, encouraging people to give back. Often organized by nonprofits, schools, or community groups, these drives exemplify the spirit of generosity and social responsibility, making a positive impact on both the environment and the lives of recipients."
     },
     {
       "id": 4,
       "image": "https://i.ibb.co/rbmPM5z/Food.png",
       "category": "Food",
-      "title": "Better Food for Everyone",
+      "title": "Better Food For Everyone",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "Ensuring better food for everyone is a multifaceted goal with far-reaching benefits. It encompasses equitable access to nutritious, affordable, and sustainably produced food. This involves supporting local agriculture, reducing food waste, and promoting education about healthy choices. It also means addressing food deserts, where communities lack access to fresh, quality food. Prioritizing food security enhances overall health, curbs chronic diseases, and reduces healthcare costs. It fosters stronger communities, as shared meals often bring people together. Moreover, a focus on sustainable agriculture and responsible consumption can mitigate environmental damage. In pursuing better food for everyone, we promote well-being, equality, and a healthier planet."
     },
     {
       "id": 5,
       "image": "https://i.ibb.co/rbmPM5z/Food.png",
       "category": "Food",
-      "title": "Better Food for Everyone",
+      "title": "Better Food For Everyone",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "Ensuring better food for everyone is a multifaceted goal with far-reaching benefits. It encompasses equitable access to nutritious, affordable, and sustainably produced food. This involves supporting local agriculture, reducing food waste, and promoting education about healthy choices. It also means addressing food deserts, where communities lack access to fresh, quality food. Prioritizing food security enhances overall health, curbs chronic diseases, and reduces healthcare costs. It fosters stronger communities, as shared meals often bring people together. Moreover, a focus on sustainable agriculture and responsible consumption can mitigate environmental damage. In pursuing better food for everyone, we promote well-being, equality, and a healthier planet."
     },
     {
       "id": 6,
@@ -45,39 +45,39 @@
       "category": "Clothing",
       "title": "Used Clothing Drive",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "A used clothing drive is a compassionate and sustainable initiative aimed at collecting gently worn clothing items from the community. These collected garments are then redistributed to those in need, often including disadvantaged individuals and families, as well as those affected by disasters. Such drives serve several purposes: reducing textile waste, extending the life of clothing, and addressing clothing insecurity. They also foster a sense of community, encouraging people to give back. Often organized by nonprofits, schools, or community groups, these drives exemplify the spirit of generosity and social responsibility, making a positive impact on both the environment and the lives of recipients."
     },
     {
       "id": 7,
       "image": "https://i.ibb.co/kXwz6vs/Education.png",
       "category": "Education",
-      "title": "Good education",
+      "title": "Good Education",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "A good education is a dynamic and inclusive process that empowers individuals with knowledge, critical thinking skills, and values. It fosters curiosity, creativity, and adaptability, preparing students to thrive in a rapidly changing world. It prioritizes holistic development, encompassing academic, social, emotional, and ethical dimensions. A good education promotes lifelong learning and a sense of global citizenship. It is accessible to all, regardless of background or circumstances, and is guided by dedicated educators who inspire, mentor, and cultivate a love of learning. Ultimately, it equips individuals to make informed choices, contribute positively to society, and pursue their passions with purpose."
     },
     {
       "id": 8,
       "image": "https://i.ibb.co/h1Yn2M6/Health.png",
       "category": "Health",
-      "title": "Clean water for children",
+      "title": "Clean Water For Children",
       "money": 290,
-      "details": "bg-blue-200"
+      "details": "Clean water for children is a fundamental human right and a vital necessity. Access to safe, potable water is essential for their health, growth, and development. Contaminated water sources can lead to waterborne diseases, malnutrition, and hinder educational opportunities. Ensuring clean water for children involves infrastructure development, filtration systems, and hygiene education. It helps prevent illness, saves lives, and reduces the burden on healthcare systems. Moreover, it promotes equitable access and social justice, benefiting marginalized communities the most. In providing clean water to children, we invest in a healthier, brighter future, where they can thrive, learn, and reach their full potential."
     },
     {
         "id": 9,
         "image": "https://i.ibb.co/h1Yn2M6/Health.png",
         "category": "Health",
-        "title": "Clean water for children",
+        "title": "Clean Water For Children",
         "money": 290,
-        "details": "bg-blue-200"
+        "details": "Clean water for children is a fundamental human right and a vital necessity. Access to safe, potable water is essential for their health, growth, and development. Contaminated water sources can lead to waterborne diseases, malnutrition, and hinder educational opportunities. Ensuring clean water for children involves infrastructure development, filtration systems, and hygiene education. It helps prevent illness, saves lives, and reduces the burden on healthcare systems. Moreover, it promotes equitable access and social justice, benefiting marginalized communities the most. In providing clean water to children, we invest in a healthier, brighter future, where they can thrive, learn, and reach their full potential."
       },
       {
         "id": 10,
         "image": "https://i.ibb.co/kXwz6vs/Education.png",
         "category": "Education",
-        "title": "Good education",
+        "title": "Good Education",
         "money": 290,
-        "details": "bg-blue-200"
+        "details": "A good education is a dynamic and inclusive process that empowers individuals with knowledge, critical thinking skills, and values. It fosters curiosity, creativity, and adaptability, preparing students to thrive in a rapidly changing world. It prioritizes holistic development, encompassing academic, social, emotional, and ethical dimensions. A good education promotes lifelong learning and a sense of global citizenship. It is accessible to all, regardless of background or circumstances, and is guided by dedicated educators who inspire, mentor, and cultivate a love of learning. Ultimately, it equips individuals to make informed choices, contribute positively to society, and pursue their passions with purpose."
       },
       {
         "id": 11,
@@ -85,15 +85,15 @@
         "category": "Clothing",
         "title": "Used Clothing Drive",
         "money": 290,
-        "details": "bg-blue-200"
+        "details": "A used clothing drive is a compassionate and sustainable initiative aimed at collecting gently worn clothing items from the community. These collected garments are then redistributed to those in need, often including disadvantaged individuals and families, as well as those affected by disasters. Such drives serve several purposes: reducing textile waste, extending the life of clothing, and addressing clothing insecurity. They also foster a sense of community, encouraging people to give back. Often organized by nonprofits, schools, or community groups, these drives exemplify the spirit of generosity and social responsibility, making a positive impact on both the environment and the lives of recipients."
       },
       {
         "id": 12,
         "image": "https://i.ibb.co/rbmPM5z/Food.png",
         "category": "Food",
-        "title": "Better Food for Everyone",
+        "title": "Better Food For Everyone",
         "money": 290,
-        "details": "bg-blue-200"
+        "details": "Ensuring better food for everyone is a multifaceted goal with far-reaching benefits. It encompasses equitable access to nutritious, affordable, and sustainably produced food. This involves supporting local agriculture, reducing food waste, and promoting education about healthy choices. It also means addressing food deserts, where communities lack access to fresh, quality food. Prioritizing food security enhances overall health, curbs chronic diseases, and reduces healthcare costs. It fosters stronger communities, as shared meals often bring people together. Moreover, a focus on sustainable agriculture and responsible consumption can mitigate environmental damage. In pursuing better food for everyone, we promote well-being, equality, and a healthier planet."
       }
   ]
   
